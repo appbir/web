@@ -1,0 +1,27 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "appbir personal website",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/appbir/web.git"
+  },
+  "keywords": [
+    "appbir",
+    "web",
+    "personal"
+  ],
+  "author": "appbir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appbir/web/issues"
+  },
+  "homepage": "https://github.com/appbir/web#readme"
+}
